@@ -1,38 +1,24 @@
-# Guilherme Ribeiro
+# Guilherme Ribeiro 
 
-## Olá Visitante!
+## Olá Visitante! ✌️
 
-Atualmente tenho 22 anos, vivo em São Paulo e programo diariamente enquanto bato a cabeça no teclado. Estou em início de carreira e passo o dia inteiro aprendendo a construir coisas e a consertar bugs que na maior parte das vezes eu mesmo quem fiz.
+    Atualmente tenho 22 anos, vivo em São Paulo, atualmente trabalho como assistente administrativo mas pretendo mudar de área, e programo diariamente enquanto bato a cabeça no teclado. Estou em início de carreira e passo o dia inteiro aprendendo a construir coisas e a consertar bugs que na maior parte das vezes eu mesmo quem fiz.
 
-## Tecnologias que Domino melhor:
+## Tecnologias e ferramentas que utilizo no dia a dia:
 
 <ul>
+  <li>Python</li>
+  <li>HTML/CSS</li>
   <li>NodeJS</li>
-  <li>HTML</li>
-  <li>CSS</li>
-
 </ul>
 
-## Tecnologias que me viro:
+## Algumas coisas sobre mim:
 
 <ul>
-<li>TypeScript</li>
+<li>Meu lugar favorito é a praia</li>
+<li>Amo piadas ruins do estilo "tiozão do pavê"</li>
 </ul>
 
+## Por onde me encontrar:
 
-
-
-<!--
-**guiribeirodev/guiribeirodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Linkedin](https://www.linkedin.com/in/guiribeirodev/)
