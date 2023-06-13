@@ -2,12 +2,12 @@
 
 ## Olá Visitante! ✌️
 
-    Atualmente tenho 22 anos, vivo em São Paulo, atualmente trabalho como assistente administrativo mas pretendo mudar de área, e programo diariamente enquanto bato a cabeça no teclado. Estou em início de carreira e passo o dia inteiro aprendendo a construir coisas e a consertar bugs que na maior parte das vezes eu mesmo quem fiz.
+    Atualmente tenho 22 anos, vivo em São Paulo, atualmente trabalho como assistente administrativo mas pretendo mudar de área, e programo diariamente enquanto bato a cabeça no teclado. 
+    Estou em início de carreira e passo o dia inteiro aprendendo a construir coisas e a consertar bugs que na maior parte das vezes eu mesmo quem fiz.
 
 ## Tecnologias e ferramentas que utilizo no dia a dia:
 
 <ul>
-  <li>Python</li>
   <li>HTML/CSS</li>
   <li>NodeJS</li>
 </ul>
