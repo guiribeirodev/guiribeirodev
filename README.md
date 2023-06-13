@@ -9,8 +9,8 @@
 ## Tecnologias e ferramentas que utilizo no dia a dia:
 
 <ul>
-  <li>HTML/CSS</li>
   <li>NodeJS</li>
+  <li>HTML/CSS</li>
 </ul>
 
 ## Algumas coisas sobre mim:
