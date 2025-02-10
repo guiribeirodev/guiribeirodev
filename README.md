@@ -9,6 +9,7 @@
 ## Tecnologias e ferramentas que ando utilizo no dia a dia:
 
 <ul>
+    <li>Python</li>
     <li>HTML/CSS/JS</li>
     <li>NodeJS</li>
 </ul>
