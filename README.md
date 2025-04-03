@@ -3,7 +3,7 @@
 ## Olá Visitante! ✌️
 
     Atualmente tenho 24 anos, vivo em São Paulo e programo diariamente enquanto bato a cabeça no teclado. 
-    Estou em início de carreira e passo o dia inteiro aprendendo a construir coisas
+    Sou um programador Full-Stack e passo o dia inteiro aprendendo a construir coisas
     e a consertar bugs que na maior parte das vezes eu mesmo quem fiz.
 
 ## Tecnologias e ferramentas que ando utilizo no dia a dia:
