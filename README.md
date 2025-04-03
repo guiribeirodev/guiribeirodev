@@ -11,7 +11,7 @@
 <ul>
     <li>Python/FastAPI</li>
     <li>HTML/CSS/JS</li>
-    <li>NodeJS</li>
+    <li>NodeJS/Express</li>
 </ul>
 
 ## Algumas coisas sobre mim:
