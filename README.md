@@ -9,7 +9,6 @@
 ## Tecnologias e ferramentas que ando utilizo no dia a dia:
 
 <ul>
-    <li>Python/FastAPI</li>
     <li>HTML/CSS/JS</li>
     <li>NodeJS/Express</li>
 </ul>
