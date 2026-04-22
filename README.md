@@ -2,7 +2,7 @@
 
 ## Olá Visitante! ✌️
 
-    Atualmente tenho 24 anos, vivo em São Paulo e programo diariamente enquanto bato a cabeça no teclado. 
+    Atualmente tenho 25 anos, vivo em São Paulo e programo diariamente enquanto bato a cabeça no teclado. 
     Sou um programador Full-Stack e passo o dia inteiro aprendendo a construir coisas
     e a consertar bugs que na maior parte das vezes eu mesmo quem fiz.
 
@@ -23,3 +23,4 @@
 ## Por onde me encontrar:
 
 [Linkedin](https://www.linkedin.com/in/guiribeirodev/)
+[Telegram](https://t.me/guiribeirodev)
