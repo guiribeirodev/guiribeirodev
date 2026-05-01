@@ -10,7 +10,7 @@
 
 <ul>
     <li>HTML/CSS/JS</li>
-    <li>NodeJS/Express</li>
+    <li>Python/FastAPI</li>
 </ul>
 
 ## Algumas coisas sobre mim:
