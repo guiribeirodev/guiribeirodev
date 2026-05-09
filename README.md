@@ -11,6 +11,8 @@
 <ul>
     <li>HTML/CSS/JS</li>
     <li>Python/FastAPI</li>
+    <li>PostgreSQL</li>
+    <li>Docker</li>
 </ul>
 
 ## Algumas coisas sobre mim:
