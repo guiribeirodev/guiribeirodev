@@ -6,15 +6,6 @@
     Sou um programador Full-Stack e passo o dia inteiro aprendendo a construir coisas
     e a consertar bugs que na maior parte das vezes eu mesmo quem fiz.
 
-## Tecnologias e ferramentas que ando utilizo no dia a dia:
-
-<ul>
-    <li>HTML/CSS/JS</li>
-    <li>Python/FastAPI</li>
-    <li>PostgreSQL</li>
-    <li>Docker</li>
-</ul>
-
 ## Algumas coisas sobre mim:
 
 <ul>
